@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+}
+#id1{
+    width: 100%;
+}
+#navbar2{
+    background-image: linear-gradient(45deg,rgb(231, 191, 227),rgb(75, 79, 187));
+    height: 120px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+}
+#logo{
+    height: 70px;
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.home{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    padding: 30px;
+}
+#navbar3{
+    margin-top: 35px;
+    display: flex;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    padding-right: 5px;
+    font-size: 20px;
+}
+#i1{
+    height: 26px;
+    margin-top: 50px;
+    padding-right: 70px;
+    border-radius: 15px;
+}
+#b1{
+    color: rgb(215, 212, 212);
+    background-color: rgb(2, 8, 14);
+    height: 30px;
+    margin-top: 50px ;
+    border-radius: 15px;
+}
+.featured{
+    background-color: black;
+    color: rgb(242, 239, 239);
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+}
+#main{
+    background-color: white;
+    width: 100%;
+}
+#header4{
+    background-image: linear-gradient(45deg,rgb(131, 203, 193),rgb(87, 91, 198));
+    color: rgb(19, 18, 18);
+    height: 450px;
+    width: 100%;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#menu1{
+    display: flex;
+    margin-top: 50px;
+}
+#product-grid{
+    font-size: 25px;
+    font-style: italic;
+    background-color: rgb(227, 252, 248);
+    display: flex;
+    width: 100%;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+#product-grid a{
+    text-decoration: none;
+}
+.myclass{
+    height: 300px;
+    width: 250px;
+}
+#heading4{
+    text-align: left;
+    padding-left: 60px;
+}
+.id4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.row{
+    background-image: linear-gradient(90deg,rgb(236, 200, 82),rgb(191, 10, 207));
+    font-size: 20px;
+    height: 1150px;
+}
+.id3{
+    text-align: center;
+    font-size: 30px;
+    background-image: linear-gradient(45deg,rgb(131, 203, 193),rgb(87, 91, 198));
+}
+#footer2{
+    height: 300px;
+    color: white;
+    background-color: black;
+}
+#footer{
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+}
+.foot{
+    display: flex;
+}
+#footer p{
+    color: #8a8a8a;
+}
+#footer h3{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.footer-col-1,.footer-col-2,.footer-col-3,.footer-col-4{
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+.footer-col-1{
+    flex-basis: 30%;
+    padding-left: 50px;
+}
+.footer-col-2{
+    flex: 1;
+    text-align: center;
+}
+.footer-col-2 img{
+    width: 180px;
+    margin-bottom: 20px;
+}
+.footer-col-3,.footer-col-4{
+    flex-basis: 10%;
+    text-align: center;
+}
+ul{
+    list-style-type:none;
+}
+.app-logo{
+    margin-top: 20px;
+}
+.app-logo img{
+    width: 140px;
+}
+.container hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+    text-align: center;
+}
+#proud{
+    text-align: center;
+    color: #fff;
+}
+.des{
+    margin-left: 20px;
+}
+#logo1{
+    height: 70px;
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
