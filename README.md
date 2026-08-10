@@ -1,4 +1,5 @@
-GenZhub
+<i><b>GenZhub</b><i/>
+
 <br>
 GenZHub is a modern and user-friendly online 
 shopping website designed to provide customers with a 
